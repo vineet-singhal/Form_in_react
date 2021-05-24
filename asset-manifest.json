@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/vineet-singhal/Form_in_react/static/css/main.5e7e10d0.chunk.css",
+    "main.js": "/vineet-singhal/Form_in_react/static/js/main.e919528c.chunk.js",
+    "main.js.map": "/vineet-singhal/Form_in_react/static/js/main.e919528c.chunk.js.map",
+    "runtime-main.js": "/vineet-singhal/Form_in_react/static/js/runtime-main.6796092d.js",
+    "runtime-main.js.map": "/vineet-singhal/Form_in_react/static/js/runtime-main.6796092d.js.map",
+    "static/js/2.23553515.chunk.js": "/vineet-singhal/Form_in_react/static/js/2.23553515.chunk.js",
+    "static/js/2.23553515.chunk.js.map": "/vineet-singhal/Form_in_react/static/js/2.23553515.chunk.js.map",
+    "static/js/3.0f7ea54f.chunk.js": "/vineet-singhal/Form_in_react/static/js/3.0f7ea54f.chunk.js",
+    "static/js/3.0f7ea54f.chunk.js.map": "/vineet-singhal/Form_in_react/static/js/3.0f7ea54f.chunk.js.map",
+    "index.html": "/vineet-singhal/Form_in_react/index.html",
+    "static/css/main.5e7e10d0.chunk.css.map": "/vineet-singhal/Form_in_react/static/css/main.5e7e10d0.chunk.css.map",
+    "static/js/2.23553515.chunk.js.LICENSE.txt": "/vineet-singhal/Form_in_react/static/js/2.23553515.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6796092d.js",
+    "static/js/2.23553515.chunk.js",
+    "static/css/main.5e7e10d0.chunk.css",
+    "static/js/main.e919528c.chunk.js"
+  ]
+}
